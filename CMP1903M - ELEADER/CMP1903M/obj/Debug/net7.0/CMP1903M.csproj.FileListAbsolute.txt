@@ -1,0 +1,30 @@
+/Users/emilyleader/Documents/GitHub/Dice-Games-Attempt/CMP1903M/CMP1903M/obj/Debug/net7.0/CMP1903M.csproj.AssemblyReference.cache
+/Users/emilyleader/Documents/GitHub/Dice-Games-Attempt/CMP1903M/CMP1903M/obj/Debug/net7.0/CMP1903M.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emilyleader/Documents/GitHub/Dice-Games-Attempt/CMP1903M/CMP1903M/obj/Debug/net7.0/CMP1903M.AssemblyInfoInputs.cache
+/Users/emilyleader/Documents/GitHub/Dice-Games-Attempt/CMP1903M/CMP1903M/obj/Debug/net7.0/CMP1903M.AssemblyInfo.cs
+/Users/emilyleader/Documents/GitHub/Dice-Games-Attempt/CMP1903M/CMP1903M/obj/Debug/net7.0/CMP1903M.csproj.CoreCompileInputs.cache
+/Users/emilyleader/Documents/GitHub/Dice-Games-Attempt/CMP1903M/CMP1903M/bin/Debug/net7.0/CMP1903M
+/Users/emilyleader/Documents/GitHub/Dice-Games-Attempt/CMP1903M/CMP1903M/bin/Debug/net7.0/CMP1903M.deps.json
+/Users/emilyleader/Documents/GitHub/Dice-Games-Attempt/CMP1903M/CMP1903M/bin/Debug/net7.0/CMP1903M.runtimeconfig.json
+/Users/emilyleader/Documents/GitHub/Dice-Games-Attempt/CMP1903M/CMP1903M/bin/Debug/net7.0/CMP1903M.dll
+/Users/emilyleader/Documents/GitHub/Dice-Games-Attempt/CMP1903M/CMP1903M/bin/Debug/net7.0/CMP1903M.pdb
+/Users/emilyleader/Documents/GitHub/Dice-Games-Attempt/CMP1903M/CMP1903M/obj/Debug/net7.0/CMP1903M.dll
+/Users/emilyleader/Documents/GitHub/Dice-Games-Attempt/CMP1903M/CMP1903M/obj/Debug/net7.0/refint/CMP1903M.dll
+/Users/emilyleader/Documents/GitHub/Dice-Games-Attempt/CMP1903M/CMP1903M/obj/Debug/net7.0/CMP1903M.pdb
+/Users/emilyleader/Documents/GitHub/Dice-Games-Attempt/CMP1903M/CMP1903M/obj/Debug/net7.0/CMP1903M.genruntimeconfig.cache
+/Users/emilyleader/Documents/GitHub/Dice-Games-Attempt/CMP1903M/CMP1903M/obj/Debug/net7.0/ref/CMP1903M.dll
+/Users/emilyleader/Documents/CMP1903M - ELEADER/CMP1903M/bin/Debug/net7.0/CMP1903M
+/Users/emilyleader/Documents/CMP1903M - ELEADER/CMP1903M/bin/Debug/net7.0/CMP1903M.deps.json
+/Users/emilyleader/Documents/CMP1903M - ELEADER/CMP1903M/bin/Debug/net7.0/CMP1903M.runtimeconfig.json
+/Users/emilyleader/Documents/CMP1903M - ELEADER/CMP1903M/bin/Debug/net7.0/CMP1903M.dll
+/Users/emilyleader/Documents/CMP1903M - ELEADER/CMP1903M/bin/Debug/net7.0/CMP1903M.pdb
+/Users/emilyleader/Documents/CMP1903M - ELEADER/CMP1903M/obj/Debug/net7.0/CMP1903M.csproj.AssemblyReference.cache
+/Users/emilyleader/Documents/CMP1903M - ELEADER/CMP1903M/obj/Debug/net7.0/CMP1903M.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emilyleader/Documents/CMP1903M - ELEADER/CMP1903M/obj/Debug/net7.0/CMP1903M.AssemblyInfoInputs.cache
+/Users/emilyleader/Documents/CMP1903M - ELEADER/CMP1903M/obj/Debug/net7.0/CMP1903M.AssemblyInfo.cs
+/Users/emilyleader/Documents/CMP1903M - ELEADER/CMP1903M/obj/Debug/net7.0/CMP1903M.csproj.CoreCompileInputs.cache
+/Users/emilyleader/Documents/CMP1903M - ELEADER/CMP1903M/obj/Debug/net7.0/CMP1903M.dll
+/Users/emilyleader/Documents/CMP1903M - ELEADER/CMP1903M/obj/Debug/net7.0/refint/CMP1903M.dll
+/Users/emilyleader/Documents/CMP1903M - ELEADER/CMP1903M/obj/Debug/net7.0/CMP1903M.pdb
+/Users/emilyleader/Documents/CMP1903M - ELEADER/CMP1903M/obj/Debug/net7.0/CMP1903M.genruntimeconfig.cache
+/Users/emilyleader/Documents/CMP1903M - ELEADER/CMP1903M/obj/Debug/net7.0/ref/CMP1903M.dll
